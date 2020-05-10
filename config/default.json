@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Phil123:Phil123@mailing-project-ld3pf.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "methanetoken"
+}
